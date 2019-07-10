@@ -41,7 +41,8 @@
         "saschaegerer/phpstan-typo3": "dev-feature/update-phpstan",
         "typo3/testing-framework": "*",
         "erusev/parsedown": "^1.7",
-        "erusev/parsedown-extra": "^0.7.1"
+        "erusev/parsedown-extra": "^0.7.1",
+        "dmk/phpstan-rnbase": "^0.0.1"
     },
     "autoload": {
         "classmap": [
